@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\bin\Debug\net6.0\3. Local and interpreted queries.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\bin\Debug\net6.0\3. Local and interpreted queries.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\bin\Debug\net6.0\3. Local and interpreted queries.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\bin\Debug\net6.0\3. Local and interpreted queries.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\bin\Debug\net6.0\3. Local and interpreted queries.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\3. Local and interpreted queries.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\3. Local and interpreted queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\3. Local and interpreted queries.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\3. Local and interpreted queries.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\3. Local and interpreted queries.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\3. Local and interpreted queries.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\refint\3. Local and interpreted queries.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\3. Local and interpreted queries.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\3. Local and interpreted queries.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\3. Local and interpreted queries\3. Local and interpreted queries\obj\Debug\net6.0\ref\3. Local and interpreted queries.dll
