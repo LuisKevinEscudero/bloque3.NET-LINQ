@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\bin\Debug\net6.0\4.Chained query operators.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\bin\Debug\net6.0\4.Chained query operators.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\bin\Debug\net6.0\4.Chained query operators.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\bin\Debug\net6.0\4.Chained query operators.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\bin\Debug\net6.0\4.Chained query operators.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\4.Chained query operators.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\4.Chained query operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\4.Chained query operators.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\4.Chained query operators.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\4.Chained query operators.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\4.Chained query operators.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\refint\4.Chained query operators.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\4.Chained query operators.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\4.Chained query operators.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\4.Chained query operators\4.Chained query operators\obj\Debug\net6.0\ref\4.Chained query operators.dll
