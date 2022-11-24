@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\bin\Debug\net6.0\ej1-queryOperation.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\bin\Debug\net6.0\ej1-queryOperation.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\bin\Debug\net6.0\ej1-queryOperation.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\bin\Debug\net6.0\ej1-queryOperation.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\bin\Debug\net6.0\ej1-queryOperation.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ej1-queryOperation.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ej1-queryOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ej1-queryOperation.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ej1-queryOperation.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ej1-queryOperation.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ej1-queryOperation.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\refint\ej1-queryOperation.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ej1-queryOperation.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ej1-queryOperation.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej1-queryOperation\ej1-queryOperation\obj\Debug\net6.0\ref\ej1-queryOperation.dll
