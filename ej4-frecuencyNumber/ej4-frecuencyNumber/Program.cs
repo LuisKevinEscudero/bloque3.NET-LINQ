@@ -19,7 +19,7 @@ namespace frecuencyNumber
 
 		public void method1()
 		{
-            int[] numbers = { 5, 9, 1, 2, 3, 7, 5, 6, 7, 3, 7, 6, 8, 5, 4, 9, 6, 2 };
+			int[] numbers = { 5, 9, 1, 2, 3, 7, 5, 6, 7, 3, 7, 6, 8, 5, 4, 9, 6, 2 };
 			Console.Write("\nLINQ : Display the number and frequency of number from given array : \n");
 			Console.Write("---------------------------------------------------------------------\n");
 			Console.WriteLine("The numbers in array are: ");
@@ -40,14 +40,14 @@ namespace frecuencyNumber
 
 		public void method2()
 		{
-            int[] numbers = { 5, 9, 1, 2, 3, 7, 5, 6, 7, 3, 7, 6, 8, 5, 4, 9, 6, 2 };
-            Console.Write("\nLINQ : Display the number and frequency of number from given array : \n");
-            Console.Write("---------------------------------------------------------------------\n");
-            Console.WriteLine("The numbers in array are: ");
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                Console.Write(numbers[i] + " ");
-            }
-        }
+			int[] numbers = { 5, 9, 1, 2, 3, 7, 5, 6, 7, 3, 7, 6, 8, 5, 4, 9, 6, 2 };
+			Console.Write("\nLINQ : Display the number and frequency of number from given array : \n");
+			Console.Write("---------------------------------------------------------------------\n");
+			Console.WriteLine("The numbers in array are: ");
+			for (int i = 0; i < numbers.Length; i++)
+			{
+				Console.Write(numbers[i] + " ");
+			}
+		}
 	}
 }
