@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej2-positiveNumbers", "ej2-positiveNumbers\ej2-positiveNumbers.csproj", "{C921C227-7E4F-4E4E-BB44-BFD2CC04F9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C921C227-7E4F-4E4E-BB44-BFD2CC04F9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C921C227-7E4F-4E4E-BB44-BFD2CC04F9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C921C227-7E4F-4E4E-BB44-BFD2CC04F9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C921C227-7E4F-4E4E-BB44-BFD2CC04F9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E66F100-9E40-43EF-B0EA-9A9F00EA08EF}
+	EndGlobalSection
+EndGlobal

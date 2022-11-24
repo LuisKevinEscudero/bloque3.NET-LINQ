@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\bin\Debug\net6.0\ej2-positiveNumbers.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\bin\Debug\net6.0\ej2-positiveNumbers.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\bin\Debug\net6.0\ej2-positiveNumbers.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\bin\Debug\net6.0\ej2-positiveNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\bin\Debug\net6.0\ej2-positiveNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ej2-positiveNumbers.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ej2-positiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ej2-positiveNumbers.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ej2-positiveNumbers.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ej2-positiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ej2-positiveNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\refint\ej2-positiveNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ej2-positiveNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ej2-positiveNumbers.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej2-positiveNumbers\ej2-positiveNumbers\obj\Debug\net6.0\ref\ej2-positiveNumbers.dll
