@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\bin\Debug\net6.0\ej5-frecuencyString.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\bin\Debug\net6.0\ej5-frecuencyString.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\bin\Debug\net6.0\ej5-frecuencyString.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\bin\Debug\net6.0\ej5-frecuencyString.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\bin\Debug\net6.0\ej5-frecuencyString.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ej5-frecuencyString.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ej5-frecuencyString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ej5-frecuencyString.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ej5-frecuencyString.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ej5-frecuencyString.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ej5-frecuencyString.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\refint\ej5-frecuencyString.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ej5-frecuencyString.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ej5-frecuencyString.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej5-frecuencyString\ej5-frecuencyString\obj\Debug\net6.0\ref\ej5-frecuencyString.dll

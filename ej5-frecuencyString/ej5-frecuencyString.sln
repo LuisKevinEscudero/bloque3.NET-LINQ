@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej5-frecuencyString", "ej5-frecuencyString\ej5-frecuencyString.csproj", "{7E039A82-ABD3-4887-99C5-63AB70D7AAFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E039A82-ABD3-4887-99C5-63AB70D7AAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E039A82-ABD3-4887-99C5-63AB70D7AAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E039A82-ABD3-4887-99C5-63AB70D7AAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E039A82-ABD3-4887-99C5-63AB70D7AAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B3BBC9-FC36-4410-9C58-F9C469FEEFE4}
+	EndGlobalSection
+EndGlobal
