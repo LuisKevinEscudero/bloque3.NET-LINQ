@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\bin\Debug\net6.0\ej4-frecuencyNumber.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\bin\Debug\net6.0\ej4-frecuencyNumber.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\bin\Debug\net6.0\ej4-frecuencyNumber.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\bin\Debug\net6.0\ej4-frecuencyNumber.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\bin\Debug\net6.0\ej4-frecuencyNumber.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ej4-frecuencyNumber.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ej4-frecuencyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ej4-frecuencyNumber.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ej4-frecuencyNumber.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ej4-frecuencyNumber.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ej4-frecuencyNumber.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\refint\ej4-frecuencyNumber.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ej4-frecuencyNumber.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ej4-frecuencyNumber.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej4-frecuencyNumber\ej4-frecuencyNumber\obj\Debug\net6.0\ref\ej4-frecuencyNumber.dll
