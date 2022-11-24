@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ej3-numbersAndSquare/1.0.0": {
+        "runtime": {
+          "ej3-numbersAndSquare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej3-numbersAndSquare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

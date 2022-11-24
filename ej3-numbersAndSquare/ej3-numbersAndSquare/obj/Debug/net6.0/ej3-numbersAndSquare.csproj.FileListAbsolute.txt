@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\bin\Debug\net6.0\ej3-numbersAndSquare.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\bin\Debug\net6.0\ej3-numbersAndSquare.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\bin\Debug\net6.0\ej3-numbersAndSquare.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\bin\Debug\net6.0\ej3-numbersAndSquare.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\bin\Debug\net6.0\ej3-numbersAndSquare.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ej3-numbersAndSquare.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ej3-numbersAndSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ej3-numbersAndSquare.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ej3-numbersAndSquare.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ej3-numbersAndSquare.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ej3-numbersAndSquare.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\refint\ej3-numbersAndSquare.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ej3-numbersAndSquare.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ej3-numbersAndSquare.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej3-numbersAndSquare\ej3-numbersAndSquare\obj\Debug\net6.0\ref\ej3-numbersAndSquare.dll
