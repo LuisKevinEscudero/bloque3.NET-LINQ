@@ -8,16 +8,19 @@ Number 9 appears 2 times
 Number 1 appears 1 times 
  */
 
+using System.Collections.Immutable;
+
 namespace frecuencyNumber
 {
 	public class Program
 	{
 		static void Main(string[] args)
 		{
-			
+			method1();
+			method2();
 		}
 
-		public void method1()
+		public static void method1()
 		{
 			int[] numbers = { 5, 9, 1, 2, 3, 7, 5, 6, 7, 3, 7, 6, 8, 5, 4, 9, 6, 2 };
 			Console.Write("\nLINQ : Display the number and frequency of number from given array : \n");
@@ -38,7 +41,7 @@ namespace frecuencyNumber
 			}
 		}
 
-		public void method2()
+		public static void method2()
 		{
 			int[] numbers = { 5, 9, 1, 2, 3, 7, 5, 6, 7, 3, 7, 6, 8, 5, 4, 9, 6, 2 };
 			Console.Write("\nLINQ : Display the number and frequency of number from given array : \n");
@@ -48,6 +51,16 @@ namespace frecuencyNumber
 			{
 				Console.Write(numbers[i] + " ");
 			}
+
+			IEnumerable<int> uniqueNumbers = numbers.Distinct();
+			Console.WriteLine("\n");
+			foreach (int num in uniqueNumbers)
+			{
+				int frequency = numbers.Count(x => x == num);
+				Console.WriteLine("Number {0} appears {1} times", num, frequency);
+			}
+
+
 		}
 	}
 }
