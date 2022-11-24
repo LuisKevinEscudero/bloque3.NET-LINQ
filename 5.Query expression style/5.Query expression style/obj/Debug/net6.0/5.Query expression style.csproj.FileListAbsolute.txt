@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\bin\Debug\net6.0\5.Query expression style.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\bin\Debug\net6.0\5.Query expression style.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\bin\Debug\net6.0\5.Query expression style.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\bin\Debug\net6.0\5.Query expression style.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\bin\Debug\net6.0\5.Query expression style.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\5.Query expression style.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\5.Query expression style.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\5.Query expression style.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\5.Query expression style.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\5.Query expression style.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\5.Query expression style.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\refint\5.Query expression style.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\5.Query expression style.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\5.Query expression style.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\5.Query expression style\5.Query expression style\obj\Debug\net6.0\ref\5.Query expression style.dll
