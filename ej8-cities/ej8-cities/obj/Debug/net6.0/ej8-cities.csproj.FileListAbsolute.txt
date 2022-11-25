@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\bin\Debug\net6.0\ej8-cities.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\bin\Debug\net6.0\ej8-cities.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\bin\Debug\net6.0\ej8-cities.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\bin\Debug\net6.0\ej8-cities.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\bin\Debug\net6.0\ej8-cities.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ej8-cities.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ej8-cities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ej8-cities.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ej8-cities.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ej8-cities.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ej8-cities.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\refint\ej8-cities.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ej8-cities.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ej8-cities.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej8-cities\ej8-cities\obj\Debug\net6.0\ref\ej8-cities.dll
