@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\bin\Debug\net6.0\ej7-numbers.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\bin\Debug\net6.0\ej7-numbers.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\bin\Debug\net6.0\ej7-numbers.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\bin\Debug\net6.0\ej7-numbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\bin\Debug\net6.0\ej7-numbers.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ej7-numbers.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ej7-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ej7-numbers.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ej7-numbers.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ej7-numbers.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ej7-numbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\refint\ej7-numbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ej7-numbers.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ej7-numbers.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej7-numbers\ej7-numbers\obj\Debug\net6.0\ref\ej7-numbers.dll
