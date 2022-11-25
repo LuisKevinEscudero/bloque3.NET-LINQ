@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\bin\Debug\net6.0\ej6-dayNames.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\bin\Debug\net6.0\ej6-dayNames.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\bin\Debug\net6.0\ej6-dayNames.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\bin\Debug\net6.0\ej6-dayNames.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\bin\Debug\net6.0\ej6-dayNames.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ej6-dayNames.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ej6-dayNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ej6-dayNames.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ej6-dayNames.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ej6-dayNames.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ej6-dayNames.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\refint\ej6-dayNames.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ej6-dayNames.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ej6-dayNames.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej6-dayNames\ej6-dayNames\obj\Debug\net6.0\ref\ej6-dayNames.dll
