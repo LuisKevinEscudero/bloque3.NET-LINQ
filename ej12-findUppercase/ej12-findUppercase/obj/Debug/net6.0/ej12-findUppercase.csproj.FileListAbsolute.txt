@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\bin\Debug\net6.0\ej12-findUppercase.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\bin\Debug\net6.0\ej12-findUppercase.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\bin\Debug\net6.0\ej12-findUppercase.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\bin\Debug\net6.0\ej12-findUppercase.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\bin\Debug\net6.0\ej12-findUppercase.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ej12-findUppercase.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ej12-findUppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ej12-findUppercase.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ej12-findUppercase.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ej12-findUppercase.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ej12-findUppercase.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\refint\ej12-findUppercase.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ej12-findUppercase.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ej12-findUppercase.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej12-findUppercase\ej12-findUppercase\obj\Debug\net6.0\ref\ej12-findUppercase.dll
