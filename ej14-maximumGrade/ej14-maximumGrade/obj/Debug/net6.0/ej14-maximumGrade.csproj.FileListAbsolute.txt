@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\bin\Debug\net6.0\ej14-maximumGrade.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\bin\Debug\net6.0\ej14-maximumGrade.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\bin\Debug\net6.0\ej14-maximumGrade.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\bin\Debug\net6.0\ej14-maximumGrade.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\bin\Debug\net6.0\ej14-maximumGrade.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ej14-maximumGrade.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ej14-maximumGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ej14-maximumGrade.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ej14-maximumGrade.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ej14-maximumGrade.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ej14-maximumGrade.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\refint\ej14-maximumGrade.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ej14-maximumGrade.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ej14-maximumGrade.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej14-maximumGrade\ej14-maximumGrade\obj\Debug\net6.0\ref\ej14-maximumGrade.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ej14-maximumGrade/1.0.0": {
+        "runtime": {
+          "ej14-maximumGrade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej14-maximumGrade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
