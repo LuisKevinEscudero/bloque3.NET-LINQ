@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\bin\Debug\net6.0\ej13-stringArray.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\bin\Debug\net6.0\ej13-stringArray.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\bin\Debug\net6.0\ej13-stringArray.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\bin\Debug\net6.0\ej13-stringArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\bin\Debug\net6.0\ej13-stringArray.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ej13-stringArray.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ej13-stringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ej13-stringArray.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ej13-stringArray.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ej13-stringArray.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ej13-stringArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\refint\ej13-stringArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ej13-stringArray.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ej13-stringArray.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej13-stringArray\ej13-stringArray\obj\Debug\net6.0\ref\ej13-stringArray.dll
