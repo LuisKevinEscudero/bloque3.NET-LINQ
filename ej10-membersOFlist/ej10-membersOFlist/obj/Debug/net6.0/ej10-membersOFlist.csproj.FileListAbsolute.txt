@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\bin\Debug\net6.0\ej10-membersOFlist.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\bin\Debug\net6.0\ej10-membersOFlist.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\bin\Debug\net6.0\ej10-membersOFlist.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\bin\Debug\net6.0\ej10-membersOFlist.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\bin\Debug\net6.0\ej10-membersOFlist.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ej10-membersOFlist.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ej10-membersOFlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ej10-membersOFlist.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ej10-membersOFlist.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ej10-membersOFlist.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ej10-membersOFlist.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\refint\ej10-membersOFlist.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ej10-membersOFlist.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ej10-membersOFlist.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej10-membersOFlist\ej10-membersOFlist\obj\Debug\net6.0\ref\ej10-membersOFlist.dll
