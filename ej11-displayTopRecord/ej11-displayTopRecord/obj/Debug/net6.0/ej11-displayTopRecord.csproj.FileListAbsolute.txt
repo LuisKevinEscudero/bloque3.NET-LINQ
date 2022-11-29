@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\bin\Debug\net6.0\ej11-displayTopRecord.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\bin\Debug\net6.0\ej11-displayTopRecord.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\bin\Debug\net6.0\ej11-displayTopRecord.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\bin\Debug\net6.0\ej11-displayTopRecord.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\bin\Debug\net6.0\ej11-displayTopRecord.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ej11-displayTopRecord.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ej11-displayTopRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ej11-displayTopRecord.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ej11-displayTopRecord.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ej11-displayTopRecord.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ej11-displayTopRecord.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\refint\ej11-displayTopRecord.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ej11-displayTopRecord.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ej11-displayTopRecord.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej11-displayTopRecord\ej11-displayTopRecord\obj\Debug\net6.0\ref\ej11-displayTopRecord.dll
