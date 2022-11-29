@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\bin\Debug\net6.0\ej9-listOfNumbers.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\bin\Debug\net6.0\ej9-listOfNumbers.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\bin\Debug\net6.0\ej9-listOfNumbers.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\bin\Debug\net6.0\ej9-listOfNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\bin\Debug\net6.0\ej9-listOfNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ej9-listOfNumbers.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ej9-listOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ej9-listOfNumbers.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ej9-listOfNumbers.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ej9-listOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ej9-listOfNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\refint\ej9-listOfNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ej9-listOfNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ej9-listOfNumbers.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej9-listOfNumbers\ej9-listOfNumbers\obj\Debug\net6.0\ref\ej9-listOfNumbers.dll
