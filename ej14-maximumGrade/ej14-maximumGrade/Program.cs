@@ -43,14 +43,21 @@ namespace MaximumGrade
                 "by the students from the list of student : ");
             Console.Write("\n-------------------------------------------------" +
                 "-----------------------------------------\n");
+            var students = new Students();
+            List<Students> studentList = students.GtStuRec();
 
+            Console.WriteLine("The students are: ");
+            foreach (var stu in studentList)
+            {
+                Console.WriteLine("Id : {0}, Name : {1}, achieved Grade Point : {2}",
+                    stu.StuId, stu.StuName, stu.GrPoint);
+            }
+            
             Console.Write("Which maximum grade point(1st, 2nd, 3rd, ...) " +
                 "you want to find  : ");
             grade = Convert.ToInt32(Console.ReadLine());
 
-            var students = new Students();
-            List<Students> studentList = students.GtStuRec();
-
+            
 
             IEnumerable<Students> bestStudents = from z in studentList
                                                  orderby z.GrPoint descending 
