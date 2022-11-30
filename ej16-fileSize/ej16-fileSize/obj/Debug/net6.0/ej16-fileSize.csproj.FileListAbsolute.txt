@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\bin\Debug\net6.0\ej16-fileSize.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\bin\Debug\net6.0\ej16-fileSize.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\bin\Debug\net6.0\ej16-fileSize.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\bin\Debug\net6.0\ej16-fileSize.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\bin\Debug\net6.0\ej16-fileSize.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ej16-fileSize.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ej16-fileSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ej16-fileSize.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ej16-fileSize.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ej16-fileSize.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ej16-fileSize.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\refint\ej16-fileSize.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ej16-fileSize.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ej16-fileSize.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej16-fileSize\ej16-fileSize\obj\Debug\net6.0\ref\ej16-fileSize.dll
