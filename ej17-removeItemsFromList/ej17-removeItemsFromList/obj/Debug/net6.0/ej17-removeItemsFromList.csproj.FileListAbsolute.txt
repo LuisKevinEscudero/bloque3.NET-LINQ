@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\bin\Debug\net6.0\ej17-removeItemsFromList.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\bin\Debug\net6.0\ej17-removeItemsFromList.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\bin\Debug\net6.0\ej17-removeItemsFromList.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\bin\Debug\net6.0\ej17-removeItemsFromList.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\bin\Debug\net6.0\ej17-removeItemsFromList.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ej17-removeItemsFromList.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ej17-removeItemsFromList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ej17-removeItemsFromList.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ej17-removeItemsFromList.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ej17-removeItemsFromList.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ej17-removeItemsFromList.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\refint\ej17-removeItemsFromList.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ej17-removeItemsFromList.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ej17-removeItemsFromList.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej17-removeItemsFromList\ej17-removeItemsFromList\obj\Debug\net6.0\ref\ej17-removeItemsFromList.dll
