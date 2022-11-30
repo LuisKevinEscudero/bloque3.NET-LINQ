@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\bin\Debug\net6.0\ej15-countFileExtension.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\bin\Debug\net6.0\ej15-countFileExtension.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\bin\Debug\net6.0\ej15-countFileExtension.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\bin\Debug\net6.0\ej15-countFileExtension.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\bin\Debug\net6.0\ej15-countFileExtension.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ej15-countFileExtension.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ej15-countFileExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ej15-countFileExtension.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ej15-countFileExtension.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ej15-countFileExtension.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ej15-countFileExtension.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\refint\ej15-countFileExtension.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ej15-countFileExtension.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ej15-countFileExtension.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej15-countFileExtension\ej15-countFileExtension\obj\Debug\net6.0\ref\ej15-countFileExtension.dll
