@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\bin\Debug\net6.0\testLinq.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\bin\Debug\net6.0\testLinq.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\bin\Debug\net6.0\testLinq.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\bin\Debug\net6.0\testLinq.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\bin\Debug\net6.0\testLinq.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\testLinq.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\testLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\testLinq.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\testLinq.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\testLinq.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\testLinq.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\refint\testLinq.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\testLinq.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\testLinq.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\testLinq\testLinq\obj\Debug\net6.0\ref\testLinq.dll
