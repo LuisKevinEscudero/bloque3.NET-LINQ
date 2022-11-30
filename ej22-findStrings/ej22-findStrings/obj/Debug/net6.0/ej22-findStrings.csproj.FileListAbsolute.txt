@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\bin\Debug\net6.0\ej22-findStrings.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\bin\Debug\net6.0\ej22-findStrings.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\bin\Debug\net6.0\ej22-findStrings.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\bin\Debug\net6.0\ej22-findStrings.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\bin\Debug\net6.0\ej22-findStrings.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ej22-findStrings.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ej22-findStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ej22-findStrings.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ej22-findStrings.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ej22-findStrings.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ej22-findStrings.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\refint\ej22-findStrings.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ej22-findStrings.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ej22-findStrings.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej22-findStrings\ej22-findStrings\obj\Debug\net6.0\ref\ej22-findStrings.dll

@@ -30,10 +30,10 @@ namespace RemoveItemsFromList
 			}
 
 			IEnumerable<string> result = from x in words
-                                         where x != "o"
-                                         select x;
+										 where x != "o"
+										 select x;
 
-            Console.WriteLine("Here the list after removing the item 'o' from the list :");
+			Console.WriteLine("Here the list after removing the item 'o' from the list :");
 			foreach (string word in result)
 			{
 				Console.WriteLine("Char: {0}", word);

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ej22-findStrings/1.0.0": {
+        "runtime": {
+          "ej22-findStrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej22-findStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
