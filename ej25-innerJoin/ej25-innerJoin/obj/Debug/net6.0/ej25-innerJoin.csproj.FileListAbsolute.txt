@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\bin\Debug\net6.0\ej25-innerJoin.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\bin\Debug\net6.0\ej25-innerJoin.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\bin\Debug\net6.0\ej25-innerJoin.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\bin\Debug\net6.0\ej25-innerJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\bin\Debug\net6.0\ej25-innerJoin.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ej25-innerJoin.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ej25-innerJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ej25-innerJoin.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ej25-innerJoin.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ej25-innerJoin.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ej25-innerJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\refint\ej25-innerJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ej25-innerJoin.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ej25-innerJoin.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej25-innerJoin\ej25-innerJoin\obj\Debug\net6.0\ref\ej25-innerJoin.dll
