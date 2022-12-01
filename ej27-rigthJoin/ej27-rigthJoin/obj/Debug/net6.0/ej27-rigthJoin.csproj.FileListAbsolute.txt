@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\bin\Debug\net6.0\ej27-rigthJoin.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\bin\Debug\net6.0\ej27-rigthJoin.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\bin\Debug\net6.0\ej27-rigthJoin.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\bin\Debug\net6.0\ej27-rigthJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\bin\Debug\net6.0\ej27-rigthJoin.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ej27-rigthJoin.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ej27-rigthJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ej27-rigthJoin.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ej27-rigthJoin.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ej27-rigthJoin.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ej27-rigthJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\refint\ej27-rigthJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ej27-rigthJoin.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ej27-rigthJoin.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej27-rigthJoin\ej27-rigthJoin\obj\Debug\net6.0\ref\ej27-rigthJoin.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej27-rigthJoin", "ej27-rigthJoin\ej27-rigthJoin.csproj", "{363C5DB1-F6F8-4967-B196-582E0F58E22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363C5DB1-F6F8-4967-B196-582E0F58E22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363C5DB1-F6F8-4967-B196-582E0F58E22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363C5DB1-F6F8-4967-B196-582E0F58E22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363C5DB1-F6F8-4967-B196-582E0F58E22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8B3DAB-F639-43FC-B318-AF4DB83DA7E4}
+	EndGlobalSection
+EndGlobal
