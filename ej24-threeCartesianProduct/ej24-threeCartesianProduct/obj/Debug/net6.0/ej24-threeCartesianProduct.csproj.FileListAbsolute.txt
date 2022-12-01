@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\bin\Debug\net6.0\ej24-threeCartesianProduct.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\bin\Debug\net6.0\ej24-threeCartesianProduct.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\bin\Debug\net6.0\ej24-threeCartesianProduct.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\bin\Debug\net6.0\ej24-threeCartesianProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\bin\Debug\net6.0\ej24-threeCartesianProduct.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ej24-threeCartesianProduct.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ej24-threeCartesianProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ej24-threeCartesianProduct.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ej24-threeCartesianProduct.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ej24-threeCartesianProduct.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ej24-threeCartesianProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\refint\ej24-threeCartesianProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ej24-threeCartesianProduct.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ej24-threeCartesianProduct.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej24-threeCartesianProduct\ej24-threeCartesianProduct\obj\Debug\net6.0\ref\ej24-threeCartesianProduct.dll
