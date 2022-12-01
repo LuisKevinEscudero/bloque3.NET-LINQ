@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\bin\Debug\net6.0\ej23-cartesianProduct.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\bin\Debug\net6.0\ej23-cartesianProduct.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\bin\Debug\net6.0\ej23-cartesianProduct.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\bin\Debug\net6.0\ej23-cartesianProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\bin\Debug\net6.0\ej23-cartesianProduct.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ej23-cartesianProduct.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ej23-cartesianProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ej23-cartesianProduct.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ej23-cartesianProduct.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ej23-cartesianProduct.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ej23-cartesianProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\refint\ej23-cartesianProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ej23-cartesianProduct.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ej23-cartesianProduct.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej23-cartesianProduct\ej23-cartesianProduct\obj\Debug\net6.0\ref\ej23-cartesianProduct.dll
