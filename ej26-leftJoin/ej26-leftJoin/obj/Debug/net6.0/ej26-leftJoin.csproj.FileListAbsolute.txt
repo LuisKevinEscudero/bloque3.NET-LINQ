@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\bin\Debug\net6.0\ej26-leftJoin.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\bin\Debug\net6.0\ej26-leftJoin.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\bin\Debug\net6.0\ej26-leftJoin.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\bin\Debug\net6.0\ej26-leftJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\bin\Debug\net6.0\ej26-leftJoin.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ej26-leftJoin.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ej26-leftJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ej26-leftJoin.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ej26-leftJoin.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ej26-leftJoin.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ej26-leftJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\refint\ej26-leftJoin.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ej26-leftJoin.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ej26-leftJoin.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej26-leftJoin\ej26-leftJoin\obj\Debug\net6.0\ref\ej26-leftJoin.dll

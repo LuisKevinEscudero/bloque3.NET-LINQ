@@ -58,6 +58,7 @@ namespace InnerJoin
 							ItemDescription = item.ItemDescription,
 							ItemPurchase = purchase.PurchaseQuantity
 						};
+
 			Console.WriteLine("Item ID \t\t Item Name \t\t Purchase Quantity");
 			Console.WriteLine("-------------------------------------------------------");
 			foreach (var item in query)
