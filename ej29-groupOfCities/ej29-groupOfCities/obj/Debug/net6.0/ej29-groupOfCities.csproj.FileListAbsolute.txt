@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\bin\Debug\net6.0\ej29-groupOfCities.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\bin\Debug\net6.0\ej29-groupOfCities.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\bin\Debug\net6.0\ej29-groupOfCities.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\bin\Debug\net6.0\ej29-groupOfCities.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\bin\Debug\net6.0\ej29-groupOfCities.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ej29-groupOfCities.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ej29-groupOfCities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ej29-groupOfCities.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ej29-groupOfCities.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ej29-groupOfCities.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ej29-groupOfCities.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\refint\ej29-groupOfCities.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ej29-groupOfCities.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ej29-groupOfCities.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej29-groupOfCities\ej29-groupOfCities\obj\Debug\net6.0\ref\ej29-groupOfCities.dll
