@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\bin\Debug\net6.0\ej28-displayItemsByLenght.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\bin\Debug\net6.0\ej28-displayItemsByLenght.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\bin\Debug\net6.0\ej28-displayItemsByLenght.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\bin\Debug\net6.0\ej28-displayItemsByLenght.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\bin\Debug\net6.0\ej28-displayItemsByLenght.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ej28-displayItemsByLenght.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ej28-displayItemsByLenght.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ej28-displayItemsByLenght.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ej28-displayItemsByLenght.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ej28-displayItemsByLenght.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ej28-displayItemsByLenght.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\refint\ej28-displayItemsByLenght.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ej28-displayItemsByLenght.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ej28-displayItemsByLenght.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ej28-displayItemsByLenght\ej28-displayItemsByLenght\obj\Debug\net6.0\ref\ej28-displayItemsByLenght.dll
