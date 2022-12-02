@@ -34,8 +34,7 @@ namespace ArrangeDistincElements
 			Console.Write("\nLINQ : Arrange distinct elements in the list in ascending order : ");
 			Console.Write("\n----------------------------------------------------------------\n");
 
-			//var firstList = Item_Mast.GetItemMast();
-			//var itemlist = firstList.DistinctBy(x => x.ItemDes);
+
 			var itemlist = Item_Mast.GetItemMast();
 			itemlist= itemlist.DistinctBy(x => x.ItemDes).ToList();
 
