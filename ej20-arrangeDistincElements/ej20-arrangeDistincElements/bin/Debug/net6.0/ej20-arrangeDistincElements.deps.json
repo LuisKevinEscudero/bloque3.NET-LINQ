@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ej20-arrangeDistincElements/1.0.0": {
+        "runtime": {
+          "ej20-arrangeDistincElements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej20-arrangeDistincElements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
