@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\bin\Debug\net6.0\ex8-suffleAnArray.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\bin\Debug\net6.0\ex8-suffleAnArray.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\bin\Debug\net6.0\ex8-suffleAnArray.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\bin\Debug\net6.0\ex8-suffleAnArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\bin\Debug\net6.0\ex8-suffleAnArray.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ex8-suffleAnArray.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ex8-suffleAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ex8-suffleAnArray.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ex8-suffleAnArray.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ex8-suffleAnArray.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ex8-suffleAnArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\refint\ex8-suffleAnArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ex8-suffleAnArray.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ex8-suffleAnArray.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex8-suffleAnArray\ex8-suffleAnArray\obj\Debug\net6.0\ref\ex8-suffleAnArray.dll
