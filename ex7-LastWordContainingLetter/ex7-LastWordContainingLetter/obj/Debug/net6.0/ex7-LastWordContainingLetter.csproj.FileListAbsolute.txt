@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\bin\Debug\net6.0\ex7-LastWordContainingLetter.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\bin\Debug\net6.0\ex7-LastWordContainingLetter.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\bin\Debug\net6.0\ex7-LastWordContainingLetter.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\bin\Debug\net6.0\ex7-LastWordContainingLetter.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\bin\Debug\net6.0\ex7-LastWordContainingLetter.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ex7-LastWordContainingLetter.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ex7-LastWordContainingLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ex7-LastWordContainingLetter.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ex7-LastWordContainingLetter.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ex7-LastWordContainingLetter.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ex7-LastWordContainingLetter.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\refint\ex7-LastWordContainingLetter.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ex7-LastWordContainingLetter.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ex7-LastWordContainingLetter.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex7-LastWordContainingLetter\ex7-LastWordContainingLetter\obj\Debug\net6.0\ref\ex7-LastWordContainingLetter.dll

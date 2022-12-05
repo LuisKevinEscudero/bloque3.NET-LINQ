@@ -14,7 +14,7 @@ namespace ReplaceSubstring
 			var query = from word in words
 						select word.Contains("ea") ? word.Replace("ea", "*") : word;
 
-            foreach (var item in query)
+			foreach (var item in query)
 			{
 				Console.WriteLine(item);
 			}
