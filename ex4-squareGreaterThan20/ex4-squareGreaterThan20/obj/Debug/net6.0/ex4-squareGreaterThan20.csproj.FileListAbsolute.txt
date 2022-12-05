@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\bin\Debug\net6.0\ex4-squareGreaterThan20.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\bin\Debug\net6.0\ex4-squareGreaterThan20.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\bin\Debug\net6.0\ex4-squareGreaterThan20.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\bin\Debug\net6.0\ex4-squareGreaterThan20.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\bin\Debug\net6.0\ex4-squareGreaterThan20.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ex4-squareGreaterThan20.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ex4-squareGreaterThan20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ex4-squareGreaterThan20.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ex4-squareGreaterThan20.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ex4-squareGreaterThan20.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ex4-squareGreaterThan20.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\refint\ex4-squareGreaterThan20.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ex4-squareGreaterThan20.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ex4-squareGreaterThan20.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex4-squareGreaterThan20\ex4-squareGreaterThan20\obj\Debug\net6.0\ref\ex4-squareGreaterThan20.dll
