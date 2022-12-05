@@ -9,19 +9,19 @@ namespace NumbersFromRange
 	{
 		static void Main(string[] args)
 		{
-            int[] numbers = { 67, 92, 153, 15 };
-            var query = from num in numbers
-                        where num > 30 && num < 100
-                        select num;
+			int[] numbers = { 67, 92, 153, 15 };
+			var query = from num in numbers
+						where num > 30 && num < 100
+						select num;
 
-            Console.WriteLine("The array numbers; ");
-            Console.WriteLine(String.Join(", ", numbers));
+			Console.WriteLine("The array numbers; ");
+			Console.WriteLine(String.Join(", ", numbers));
 
-            Console.WriteLine("Numbers greater than 30 and less than 100 are:");
-            foreach (var num in query)
-            {
-                Console.WriteLine(num);
-            }
-        }
+			Console.WriteLine("Numbers greater than 30 and less than 100 are:");
+			foreach (var num in query)
+			{
+				Console.WriteLine(num);
+			}
+		}
 	}
 }
