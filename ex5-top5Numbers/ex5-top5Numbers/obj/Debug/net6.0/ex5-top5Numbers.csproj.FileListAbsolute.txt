@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\bin\Debug\net6.0\ex5-top5Numbers.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\bin\Debug\net6.0\ex5-top5Numbers.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\bin\Debug\net6.0\ex5-top5Numbers.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\bin\Debug\net6.0\ex5-top5Numbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\bin\Debug\net6.0\ex5-top5Numbers.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ex5-top5Numbers.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ex5-top5Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ex5-top5Numbers.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ex5-top5Numbers.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ex5-top5Numbers.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ex5-top5Numbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\refint\ex5-top5Numbers.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ex5-top5Numbers.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ex5-top5Numbers.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex5-top5Numbers\ex5-top5Numbers\obj\Debug\net6.0\ref\ex5-top5Numbers.dll
