@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\bin\Debug\net6.0\ex6-replaceSubstring.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\bin\Debug\net6.0\ex6-replaceSubstring.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\bin\Debug\net6.0\ex6-replaceSubstring.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\bin\Debug\net6.0\ex6-replaceSubstring.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\bin\Debug\net6.0\ex6-replaceSubstring.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ex6-replaceSubstring.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ex6-replaceSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ex6-replaceSubstring.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ex6-replaceSubstring.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ex6-replaceSubstring.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ex6-replaceSubstring.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\refint\ex6-replaceSubstring.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ex6-replaceSubstring.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ex6-replaceSubstring.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex6-replaceSubstring\ex6-replaceSubstring\obj\Debug\net6.0\ref\ex6-replaceSubstring.dll
