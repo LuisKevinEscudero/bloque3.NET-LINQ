@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\bin\Debug\net6.0\ex12-uppercaseOnly.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\bin\Debug\net6.0\ex12-uppercaseOnly.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\bin\Debug\net6.0\ex12-uppercaseOnly.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\bin\Debug\net6.0\ex12-uppercaseOnly.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\bin\Debug\net6.0\ex12-uppercaseOnly.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ex12-uppercaseOnly.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ex12-uppercaseOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ex12-uppercaseOnly.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ex12-uppercaseOnly.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ex12-uppercaseOnly.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ex12-uppercaseOnly.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\refint\ex12-uppercaseOnly.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ex12-uppercaseOnly.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ex12-uppercaseOnly.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex12-uppercaseOnly\ex12-uppercaseOnly\obj\Debug\net6.0\ref\ex12-uppercaseOnly.dll
