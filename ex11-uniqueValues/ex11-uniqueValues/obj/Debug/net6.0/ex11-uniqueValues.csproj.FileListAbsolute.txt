@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\bin\Debug\net6.0\ex11-uniqueValues.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\bin\Debug\net6.0\ex11-uniqueValues.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\bin\Debug\net6.0\ex11-uniqueValues.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\bin\Debug\net6.0\ex11-uniqueValues.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\bin\Debug\net6.0\ex11-uniqueValues.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ex11-uniqueValues.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ex11-uniqueValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ex11-uniqueValues.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ex11-uniqueValues.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ex11-uniqueValues.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ex11-uniqueValues.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\refint\ex11-uniqueValues.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ex11-uniqueValues.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ex11-uniqueValues.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex11-uniqueValues\ex11-uniqueValues\obj\Debug\net6.0\ref\ex11-uniqueValues.dll

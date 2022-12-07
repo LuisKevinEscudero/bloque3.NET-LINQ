@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ex10-mostFrequentChar.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ex10-mostFrequentChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ex10-mostFrequentChar.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ex10-mostFrequentChar.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ex10-mostFrequentChar.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\bin\Debug\net6.0\ex10-mostFrequentChar.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\bin\Debug\net6.0\ex10-mostFrequentChar.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\bin\Debug\net6.0\ex10-mostFrequentChar.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\bin\Debug\net6.0\ex10-mostFrequentChar.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\bin\Debug\net6.0\ex10-mostFrequentChar.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ex10-mostFrequentChar.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\refint\ex10-mostFrequentChar.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ex10-mostFrequentChar.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ex10-mostFrequentChar.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex10-mostFrequentChar\ex10-mostFrequentChar\obj\Debug\net6.0\ref\ex10-mostFrequentChar.dll
