@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\bin\Debug\net6.0\ex9-decryptNumber.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\bin\Debug\net6.0\ex9-decryptNumber.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\bin\Debug\net6.0\ex9-decryptNumber.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\bin\Debug\net6.0\ex9-decryptNumber.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\bin\Debug\net6.0\ex9-decryptNumber.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ex9-decryptNumber.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ex9-decryptNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ex9-decryptNumber.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ex9-decryptNumber.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ex9-decryptNumber.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ex9-decryptNumber.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\refint\ex9-decryptNumber.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ex9-decryptNumber.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ex9-decryptNumber.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex9-decryptNumber\ex9-decryptNumber\obj\Debug\net6.0\ref\ex9-decryptNumber.dll
