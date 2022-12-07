@@ -15,9 +15,9 @@ namespace ArraysDotProduct
 			var query = (from a in array1
 						join b in array2
 						on Array.IndexOf(array1, a) equals Array.IndexOf(array2, b)
-                         select a * b).Sum();
+						 select a * b).Sum();
 
-            Console.WriteLine(query);
+			Console.WriteLine(query);
 
 		}
 	}

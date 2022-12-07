@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\bin\Debug\net6.0\ex14-frecuencyOfLetters.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\bin\Debug\net6.0\ex14-frecuencyOfLetters.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\bin\Debug\net6.0\ex14-frecuencyOfLetters.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\bin\Debug\net6.0\ex14-frecuencyOfLetters.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\bin\Debug\net6.0\ex14-frecuencyOfLetters.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ex14-frecuencyOfLetters.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ex14-frecuencyOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ex14-frecuencyOfLetters.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ex14-frecuencyOfLetters.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ex14-frecuencyOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ex14-frecuencyOfLetters.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\refint\ex14-frecuencyOfLetters.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ex14-frecuencyOfLetters.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ex14-frecuencyOfLetters.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex14-frecuencyOfLetters\ex14-frecuencyOfLetters\obj\Debug\net6.0\ref\ex14-frecuencyOfLetters.dll
