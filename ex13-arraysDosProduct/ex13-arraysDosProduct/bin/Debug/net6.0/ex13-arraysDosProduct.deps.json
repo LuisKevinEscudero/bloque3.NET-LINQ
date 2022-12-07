@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex13-arraysDosProduct/1.0.0": {
+        "runtime": {
+          "ex13-arraysDosProduct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex13-arraysDosProduct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\bin\Debug\net6.0\ex13-arraysDosProduct.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\bin\Debug\net6.0\ex13-arraysDosProduct.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\bin\Debug\net6.0\ex13-arraysDosProduct.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\bin\Debug\net6.0\ex13-arraysDosProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\bin\Debug\net6.0\ex13-arraysDosProduct.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ex13-arraysDosProduct.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ex13-arraysDosProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ex13-arraysDosProduct.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ex13-arraysDosProduct.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ex13-arraysDosProduct.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ex13-arraysDosProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\refint\ex13-arraysDosProduct.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ex13-arraysDosProduct.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ex13-arraysDosProduct.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex13-arraysDosProduct\ex13-arraysDosProduct\obj\Debug\net6.0\ref\ex13-arraysDosProduct.dll
