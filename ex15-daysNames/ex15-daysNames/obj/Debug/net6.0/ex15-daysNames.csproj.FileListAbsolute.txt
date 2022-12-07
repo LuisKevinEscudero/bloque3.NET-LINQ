@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\bin\Debug\net6.0\ex15-daysNames.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\bin\Debug\net6.0\ex15-daysNames.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\bin\Debug\net6.0\ex15-daysNames.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\bin\Debug\net6.0\ex15-daysNames.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\bin\Debug\net6.0\ex15-daysNames.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ex15-daysNames.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ex15-daysNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ex15-daysNames.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ex15-daysNames.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ex15-daysNames.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ex15-daysNames.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\refint\ex15-daysNames.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ex15-daysNames.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ex15-daysNames.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex15-daysNames\ex15-daysNames\obj\Debug\net6.0\ref\ex15-daysNames.dll
