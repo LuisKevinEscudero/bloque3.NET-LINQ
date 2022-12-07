@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\bin\Debug\net6.0\ex16-doubleLetters.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\bin\Debug\net6.0\ex16-doubleLetters.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\bin\Debug\net6.0\ex16-doubleLetters.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\bin\Debug\net6.0\ex16-doubleLetters.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\bin\Debug\net6.0\ex16-doubleLetters.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ex16-doubleLetters.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ex16-doubleLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ex16-doubleLetters.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ex16-doubleLetters.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ex16-doubleLetters.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ex16-doubleLetters.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\refint\ex16-doubleLetters.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ex16-doubleLetters.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ex16-doubleLetters.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex16-doubleLetters\ex16-doubleLetters\obj\Debug\net6.0\ref\ex16-doubleLetters.dll
