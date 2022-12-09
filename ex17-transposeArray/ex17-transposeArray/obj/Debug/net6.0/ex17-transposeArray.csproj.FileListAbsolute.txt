@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\bin\Debug\net6.0\ex17-transposeArray.exe
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\bin\Debug\net6.0\ex17-transposeArray.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\bin\Debug\net6.0\ex17-transposeArray.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\bin\Debug\net6.0\ex17-transposeArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\bin\Debug\net6.0\ex17-transposeArray.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ex17-transposeArray.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ex17-transposeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ex17-transposeArray.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ex17-transposeArray.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ex17-transposeArray.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ex17-transposeArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\refint\ex17-transposeArray.dll
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ex17-transposeArray.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ex17-transposeArray.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque3.NET-LINQ\ex17-transposeArray\ex17-transposeArray\obj\Debug\net6.0\ref\ex17-transposeArray.dll

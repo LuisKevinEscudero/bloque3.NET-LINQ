@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex17-transposeArray", "ex17-transposeArray\ex17-transposeArray.csproj", "{A561ABAB-74AE-4CF3-8327-770D67EFF2B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A561ABAB-74AE-4CF3-8327-770D67EFF2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A561ABAB-74AE-4CF3-8327-770D67EFF2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A561ABAB-74AE-4CF3-8327-770D67EFF2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A561ABAB-74AE-4CF3-8327-770D67EFF2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7908F59-8C88-4CB3-B6AB-F04374E9DD67}
+	EndGlobalSection
+EndGlobal

@@ -12,14 +12,9 @@ namespace DoubleLetters
 						from secondLetter in Enumerable.Range('A', 26)
 						select new string(new char[] { (char)firstLetter, (char)secondLetter });
 
-			var query2 = from firsLetter in Enumerable.Range('A', 26)
-						 from secondLetter in Enumerable.Range('A', 26)
-						 group new string(new char[] { (char)firsLetter, (char)secondLetter }) by firsLetter into g
-						 select g;
-
-			foreach (var item in query2)
+			foreach (var item in query)
 			{
-				Console.WriteLine(item.Key);
+				Console.WriteLine(item);
 			}
 		}
 	}
